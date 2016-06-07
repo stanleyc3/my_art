@@ -1,0 +1,41 @@
+.heading{
+	color:blue;
+	font-size:40px;
+}
+
+.description{
+	color:darkgray;
+	font-size:20px;
+	border: 10px solid black;
+	padding: 10px;
+	width:500px;
+	background-color:red;
+}
+
+.image{
+	width:500px;
+	height:350px;
+	position:relative;
+	left:20px;
+}
+
+.chart {
+    width: 300px;
+    height: 300px;
+}
+
+.circ1{
+    stroke: red; 
+    fill: yellow;
+    stroke-width: 5;
+}
+
+.rect1{
+	stroke:black;
+	fill:green;
+	stroke-width:5;
+}
+
+.pol1{
+	fill:blue;
+}
